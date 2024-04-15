@@ -1,11 +1,13 @@
+# ⚠️ Repository archived
+
+This project has been archived and is no longer maintained. The original maintainer is no longer able to dedicate the time required to keep Gryphon up to date with the recent Swift releases. The code is preserved here for any who may want it, and the original `Readme.md` follows below:
+
+-----
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vinivendra/Gryphon/raw/release/Gryphon%20Logo%20dark.svg">
   <img src="https://github.com/vinivendra/Gryphon/raw/release/Gryphon%20Logo.svg" alt="Gryphon logo" height="70">
 </picture>
-
-### 🔔 Call for maintainers
-
-*Gryphon is looking for new maintainers! If you're interested in helping out or just want to check out our progress, head over to the [GitHub forum post](https://github.com/vinivendra/Gryphon/discussions/125).*
 
 # The Swift to Kotlin translator
 
